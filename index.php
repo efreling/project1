@@ -13,9 +13,9 @@ include "inc/html-top.php";
 	<header>
 		<h1>City-team: London</h1>
 		<section>
-			<p>Information Architect: Qi Miao</p>
-			<p>Visual Designer: Elise Frelinger</p>
-			<p>Technician: Bo Wu</p>
+			<p>#</p>
+			<p>#</p>
+			<p>#</p>
 		</section>
 	</header>
 
@@ -24,32 +24,32 @@ include "inc/html-top.php";
 		<div class="container">
 			<article>
 				<div class="column_1">
-					<h2>Qi Miao - Information Architect</h2>
-					<img src="images/pic.jpg" alt="Qi's photo">
-					<div class="major">Major in Computer Science</div>
-					<div class="major">Major in Digital Media Studies</div>
-					<a href = "http://csc174.org/lab01/qmiao3/index.php">View Personal Website</a>
+					<h2>Topic 1</h2>
+					<img src="#" alt="Topic 1">
+					<div class="major">#</div>
+					<div class="major">#</div>
+					<a href = "#">View Personal Website</a>
 				</div>
 
 				<div class="column_2">
-					<h2>Elise Frelinger - Visual Designer</h2>
-		            <img src="images/elise_picture.jpg" alt="Elise's photo">
+					<h2>Elise Frelinger - IA</h2>
+		            <!-- <img src="images/elise_picture.jpg" alt="Elise's photo"> -->
 					<div class="major">Major in Film & Media Studies</div>
 					<div class="major">Minor in Brain & Cognitive Science, History, and Computer Science</div>
 					<a href = "http://csc174.org/lab01/efreling/lab01/index.php">View Personal Website</a>
 				</div>
 
 				<div class="column_3">
-					<h2>Bo Wu - Technician</h2>
-					<img src="images/bo-selfie.jpg" alt="Bo's photo">
-					<div class="major">Rising Junior</div>
-					<div class="major">Major in Computer Science</div>
-					<a href = "http://csc174.org/lab01/bwu18/index.php">View Personal Website</a>
+					<h2>Topic 3</h2>
+					<img src="#" alt="Topic 3">
+					<div class="major">#</div>
+					<div class="major">#</div>
+					<a href = "#">View Personal Website</a>
 				</div>
 			</article>
 
 			<footer>
-				<p>CSC 174:Advanced Front-end Web - Project 1</p>
+				<p>CSC 174:Advanced Front-end Web - Project 2</p>
 			</footer>
 		
 		</div><!-- used for center container -->
