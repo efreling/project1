@@ -39,7 +39,9 @@ include "inc/html-top.php";
 		<aside>
 			<h2>Before College...</h2>
 					<p>
-						After a few brief explorations of Golden Age film history (courtesy of essays in my high school English department), I discovered that the limitations and unique communication style of digital art make it particularly interesting to create and deconstruct. I also took a class on Java coding, which introduced me to computer science and helped me think linearly.
+						After a few brief explorations of Golden Age film history (courtesy of essays in my high school English department), I discovered that the limitations and unique communication style of digital art make it particularly interesting to create and deconstruct. I also took a class on Java coding, which introduced me to computer science and helped me think linearly.</p>
+
+						<p>In a group of three, I helped to screenwrite, shoot, and edit a short, psychological thriller which we screened in a high school film class. </p>
 
 					</p>
 		</aside>
