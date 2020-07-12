@@ -100,10 +100,11 @@ include "inc/html-top.php";
                 6 years of experience with digital art and graphic design and am proficient using Illustrator,
                 Photoshop, and Adobe XD. 
             </p>
-            <p>
+            <p class="external_link">
                 Check out some of my work here:
-                <a class="link" href="https://joshuachoi.herokuapp.com/" target="_blank">My Work</a>
             </p>
+            <div><a href="https://joshuachoi.herokuapp.com/">My Website</a></div>
+            
 
 		</aside>
 

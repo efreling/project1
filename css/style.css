@@ -121,3 +121,23 @@ body {
     background-color: indigo;
     border: 0px;
 }
+
+.external_link {
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+}
+
+aside a {
+    text-decoration: none;
+    color: silver;
+    border: 1.5px dotted white;
+    padding: 4px;
+    color: #D9CFC0;
+    background-color: #214B71;
+    font-size: 18px;
+}
+
+aside a:hover {
+    background-color: indigo;
+}

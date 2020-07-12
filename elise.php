@@ -77,10 +77,12 @@ include "inc/html-top.php";
 					<p>
 						After a few brief explorations of Golden Age film history (courtesy of essays in my high school English department), I discovered that the limitations and unique communication style of digital art make it interesting to create and deconstruct. In a group of three, I helped to screenwrite, shoot, and edit a short, psychological thriller which we screened in a high school film class.
 					</p>
-					<p>
-						 Check out some of my work here: <a href="https://www.youtube.com/channel/UCLtLOG0_FtSvw3HFZ9b2nog">YouTube.</a>
-
+					<p class="external_link">
+						 Check out some of my work here: 
 					</p>
+					<div><a href="https://www.youtube.com/channel/UCLtLOG0_FtSvw3HFZ9b2nog">YouTube</a></div>
+
+					
 		</aside>
 
 		<footer>

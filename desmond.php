@@ -71,7 +71,8 @@ include "inc/html-top.php";
             <p>I worked on many different projects over the past several years. Some of these projects include creating games for hackathons, creating a motion tracker for a research project, and even a prototype social media website. 
             </p>
 
-            <p>Check out some of my work here: <a href="https://github.com/KarmaPanda">GitHub</a>.</p>
+            <p class="external_link">Check out some of my work here: </p>
+            <div><a href="https://github.com/KarmaPanda">GitHub</a></p></div>
 		</aside>
 
 		<footer>
