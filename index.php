@@ -41,10 +41,10 @@ include "inc/html-top.php";
 
 				<div class="column_3">
 					<h2>Desmond Lai</h2>
-					<img src="#" alt="Desmond's photo">
-					<div class="major">#</div>
-					<div class="major">#</div>
-					<a href = "#">View Personal Website</a>
+					<img src="images/desmond.jpeg" alt="Desmond's photo">
+					<div class="major">Major in Computer Science</div>
+					<div class="major">Cluster in Production and Economics</div>
+					<a href = "http://csc174.org/lab01/dlai2">View Personal Website</a>
 				</div>
 			</article>
 
