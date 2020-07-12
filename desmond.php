@@ -27,7 +27,7 @@ include "inc/html-top.php";
                 <li>CSC 172: Data Structures & Algorithms</li>
                 <li>CSC 173: Computation & Formal Systems</li>
                 <li>CSC 186: Video Game Development</li>
-                <li>CSC 210: Web Progamming</li>
+                <li>CSC 210: Web Programming</li>
                 <li>CSC 214: Mobile App Development</li>
                 <li>CSC 273W: Writing For Computer Science</li>
             </ul>
@@ -52,7 +52,7 @@ include "inc/html-top.php";
                 <li>DMS 112 / SA 141: Introduction to Photography</li>
             </ul>
 
-            <h2>Experienced in</h2>
+            <h2>Experience in:</h2>
             <ul>
                 <li>Adobe Photoshop</li>
                 <li>Adobe Premiere</li>

@@ -11,7 +11,7 @@ include "inc/html-top.php";
 <body>
 	<?php include "inc/nav.php"; ?>
 	<header>
-		<h1>City-team: London</h1>
+		<h1>City-team: Osaka</h1>
 		<section>
 			<p>#</p>
 			<p>#</p>
@@ -25,10 +25,10 @@ include "inc/html-top.php";
 			<article>
 				<div class="column_1">
 					<h2>Joshua Choi</h2>
-					<img src="#" alt="Joshua's photo">
-					<div class="major">#</div>
-					<div class="major">#</div>
-					<a href = "#">View Personal Website</a>
+					<img src="images/josh.jpg" alt="Joshua's photo">
+					<div class="major">Major in Computer Science</div>
+					<div class="major">Major in Digital Media Studies</div>
+					<a href = "http://csc174.org/lab01/jchoi84/">View Personal Website</a>
 				</div>
 
 				<div class="column_2">

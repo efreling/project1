@@ -9,7 +9,7 @@ include "inc/html-top.php";
 	<?php include "inc/nav.php"; ?>
 
 	<header>
-		<h1>Joshua Choi</h1>
+		<h1>Joshua Choi '22</h1>
 		<div>Major in Computer Science</div>
 		<div>Major in Digital Media Studies</div>
 	</header>
@@ -29,6 +29,28 @@ include "inc/html-top.php";
 
             </p>
 
+            <h2>Classes in Computer Science:</h2>
+            <ul>
+                <li>CSC 170: Intro to Web Development</li>
+                <li>CSC 171: Intro to Computer Science</li>
+                <li>CSC 172: Data Structures & Algorithms</li>
+                <li>CSC 173: Computation & Formal Systems</li>
+                <li>CSC 186: Video Game Development</li>
+                <li>CSC 210: Web Programming</li>
+                <li>CSC 214: Mobile App Development</li>
+                <li>CSC 273W: Writing For Computer Science</li>
+            </ul>
+
+            <h2>Experience In:</h2>
+            <ul>
+                <li>Python</li>
+                <li>Java</li>
+                <li>Bootstrap</li>
+                <li>JavaScript</li>
+                <li>SQL</li>
+                <li>Arduino IDE</li>
+            </ul>
+
 			<h2>Digital Media Studies</h2>
 			<p>
                 I decided I wanted to major in digital media studies because I've always been interested in digital art
@@ -37,7 +59,27 @@ include "inc/html-top.php";
                 useful skill for me while working on designing and creating websites.
             </p>
 
-			<h2>SASE</h2>
+            <h2>Classes in Digital Media:</h2>
+            <ul>
+                <li>DMS 101: Intro to Digital Media Studies</li>
+                <li>DMS 103: Essential Digital Media Toolkit</li>
+                <li>DMS 104: Design in the Digital Age</li>
+                <li>DMS 111 / FMS 205 / SA 151: New Media & Emerging Practices</li>
+                <li>DMS 112 / SA 141: Introduction to Photography</li>
+            </ul>
+
+            <h2>Experience in:</h2>
+            <ul>
+                <li>Adobe Illustrator</li>
+                <li>Adobe Photoshop</li>
+                <li>Adobe Premiere Pro</li>
+                <li>Adobe XD</li>
+                <li>Blender</li>
+                <li>Reality Capture</li>
+                <li>Photography</li>
+            </ul>
+
+			<h2>Clubs and Organizations</h2>
 			<p>
                 I am the Publicity Chair of the University of Rochester Society of Asian Scientists and Engineers.
                 As the Publicity Chair, I am responsible for all of UR SASE’s advertisements, promotions, etc.,
