@@ -9,7 +9,7 @@ include "inc/html-top.php";
 	<?php include "inc/nav.php"; ?>
 
 	<header>
-		<h1>Topic 1</h1>
+		<h1>Joshua Choi</h1>
 		<div>#</div>
 		<div>#</div>
 	</header>

@@ -10,7 +10,7 @@ include "inc/html-top.php";
 	<?php include "inc/nav.php"; ?>
 	
 	<header>
-		<h1>Topic 3</h1>
+		<h1>Desmond Lai</h1>
 		<div>#</div>
 	</header>
 
@@ -52,7 +52,7 @@ include "inc/html-top.php";
 			<h2>#</h2>
 				<ol>
 					<li>
-						I#:
+						#:
 						<ol>
 							<li>#</li>
 							<li>#</li>
