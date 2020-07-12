@@ -29,7 +29,7 @@ include "inc/html-top.php";
 
             </p>
 
-            <h2>Classes in Computer Science:</h2>
+            <h3>Classes in Computer Science:</h3>
             <ul>
                 <li>CSC 170: Intro to Web Development</li>
                 <li>CSC 171: Intro to Computer Science</li>
@@ -41,7 +41,7 @@ include "inc/html-top.php";
                 <li>CSC 273W: Writing For Computer Science</li>
             </ul>
 
-            <h2>Experience In:</h2>
+            <h3>Programming Languages:</h3>
             <ul>
                 <li>Python</li>
                 <li>Java</li>
@@ -59,7 +59,7 @@ include "inc/html-top.php";
                 useful skill for me while working on designing and creating websites.
             </p>
 
-            <h2>Classes in Digital Media:</h2>
+            <h3>Classes in Digital Media:</h3>
             <ul>
                 <li>DMS 101: Intro to Digital Media Studies</li>
                 <li>DMS 103: Essential Digital Media Toolkit</li>
@@ -68,7 +68,7 @@ include "inc/html-top.php";
                 <li>DMS 112 / SA 141: Introduction to Photography</li>
             </ul>
 
-            <h2>Experience in:</h2>
+            <h3>Experience in:</h3>
             <ul>
                 <li>Adobe Illustrator</li>
                 <li>Adobe Photoshop</li>
@@ -92,13 +92,16 @@ include "inc/html-top.php";
 		</article>
 
 		<aside>
-			<h2>Digital Art</h2>
+			<h2>High School Projects and Areas of Study</h2>
             <p>
                 My passion for digital art began 6 years ago, when I started learning Adobe Illustrator back in New
                 Jersey. I enjoyed sketching as a kid and liked to design interesting creatures or monsters.
                 Doing something similar on a digital screen felt even easier and less time consuming. I have over
                 6 years of experience with digital art and graphic design and am proficient using Illustrator,
-                Photoshop, and Adobe XD. Check out some of my work here:
+                Photoshop, and Adobe XD. 
+            </p>
+            <p>
+                Check out some of my work here:
                 <a class="link" href="https://joshuachoi.herokuapp.com/" target="_blank">My Work</a>
             </p>
 

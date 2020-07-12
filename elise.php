@@ -30,19 +30,18 @@ include "inc/html-top.php";
 					<li>CSC 299W: Social Implications of Computing</li>
 				</ul>
 
-			<h3>Experience in:</h3>
+			<h3>Programming Languages:</h3>
 				<ul>
 					<li>Java</li>
 					<li>Python</li>
 					<li>R</li>
 					<li>HTML</li>
-					<li>Blender</li>
 				</ul>
 			<h2>Digital Media Studies</h2>
 					<p>
 						I decided to take a film class when I went to the UofR and quickly signed up for several the following year. After two years, I realized that constructing and deconstructing video was something I loved to do. I decided to major in the production track.
 					</p>
-			<h3>Classes in Film and Digital Media:</h3>
+			<h3>Classes in Digital Media:</h3>
 				<ul>
 					<li>FMS 132: Intro to the Art of Film</li>
 					<li>FMS 210: Animation and the Arts</li>
@@ -64,7 +63,8 @@ include "inc/html-top.php";
 					<li>Adobe Animate</li>
 					<li>Adobe Photoshop</li>
 					<li>Audacity</li>
-					<li>producing still and multi-media presentations, as well as short animations</li>
+					<li>Blender</li>
+					<li>Producing Still and Multi-Media Presentations</li>
 				</ul>
 
 			<h2>Clubs and Organization</h2>
@@ -73,11 +73,12 @@ include "inc/html-top.php";
 		</article>
 
 		<aside>
-			<h2>Before College...</h2>
+			<h2>High School Projects and Areas of Study</h2>
 					<p>
-						After a few brief explorations of Golden Age film history (courtesy of essays in my high school English department), I discovered that the limitations and unique communication style of digital art make it particularly interesting to create and deconstruct. I also took a class on Java coding, which introduced me to computer science and helped me think linearly.</p>
-
-						<p>In a group of three, I helped to screenwrite, shoot, and edit a short, psychological thriller which we screened in a high school film class. </p>
+						After a few brief explorations of Golden Age film history (courtesy of essays in my high school English department), I discovered that the limitations and unique communication style of digital art make it interesting to create and deconstruct. In a group of three, I helped to screenwrite, shoot, and edit a short, psychological thriller which we screened in a high school film class.
+					</p>
+					<p>
+						 Check out some of my work here: <a href="https://www.youtube.com/channel/UCLtLOG0_FtSvw3HFZ9b2nog">YouTube.</a>
 
 					</p>
 		</aside>
