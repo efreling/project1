@@ -9,7 +9,7 @@ include "inc/html-top.php";
 <body>
 	<?php include "inc/nav.php"; ?>
 	<header>
-		<h1>Elise Frelinger</h1>
+		<h1>Elise Frelinger '21</h1>
 		<div>Major in Film & Media Studies</div>
 		<div>Minor in BCS, History, and CS</div>
 	</header>
@@ -37,9 +37,10 @@ include "inc/html-top.php";
 		</article>
 
 		<aside>
-			<h2>History</h2>
+			<h2>Before College...</h2>
 					<p>
-						History was a minor I fell into sideways. I have always liked to learn and apply history, especially in political science. Over four years, I spontaneously decided to take several courses on music, conflicts, periods of upheavel, and pieces of history that are missing, difficult to access, or which have been stripped away entirely. One of my favorite classes involved transcribing letters from a family in the 1800s, an experience that I found both surreal and surprisingly moving. In the end, I had a minor.
+						After a few brief explorations of Golden Age film history (courtesy of essays in my high school English department), I discovered that the limitations and unique communication style of digital art make it particularly interesting to create and deconstruct. I also took a class on Java coding, which introduced me to computer science and helped me think linearly.
+
 					</p>
 		</aside>
 

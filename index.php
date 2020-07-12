@@ -24,24 +24,24 @@ include "inc/html-top.php";
 		<div class="container">
 			<article>
 				<div class="column_1">
-					<h2>Topic 1</h2>
-					<img src="#" alt="Topic 1">
+					<h2>Joshua Choi</h2>
+					<img src="#" alt="Joshua's photo">
 					<div class="major">#</div>
 					<div class="major">#</div>
 					<a href = "#">View Personal Website</a>
 				</div>
 
 				<div class="column_2">
-					<h2>Elise Frelinger - IA</h2>
-		            <!-- <img src="images/elise_picture.jpg" alt="Elise's photo"> -->
+					<h2>Elise Frelinger</h2>
+		            <img src="images/elise_picture.jpg" alt="Elise's photo">
 					<div class="major">Major in Film & Media Studies</div>
 					<div class="major">Minor in Brain & Cognitive Science, History, and Computer Science</div>
 					<a href = "http://csc174.org/lab01/efreling/lab01/index.php">View Personal Website</a>
 				</div>
 
 				<div class="column_3">
-					<h2>Topic 3</h2>
-					<img src="#" alt="Topic 3">
+					<h2>Desmond Lai</h2>
+					<img src="#" alt="Desmond's photo">
 					<div class="major">#</div>
 					<div class="major">#</div>
 					<a href = "#">View Personal Website</a>
