@@ -58,7 +58,7 @@
     color: silver;
     font-family: 'Montserrat', sans-serif;
     /* instructions from css-tricks.com */
-    transform: rotate(-3deg);
+   /* transform: rotate(-3deg); */
 }
 @media (max-width: 600px){
     .background aside{
@@ -96,8 +96,6 @@ header {
         margin-top: 0;
     }
 }
-
-
 
 h2 {
     font-style: italic;
