@@ -9,7 +9,7 @@ include "inc/html-top.php";
 <body>
 	<?php include "inc/nav.php"; ?>
 	<header>
-		<h1>Elise Frelinger '21</h1>
+		<h1>Elise Frelinger</h1>
 		<div>Major in Film & Media Studies</div>
 		<div>Minor in BCS, History, and CS</div>
 	</header>
