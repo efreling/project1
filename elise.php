@@ -9,7 +9,7 @@ include "inc/html-top.php";
 <body>
 	<?php include "inc/nav.php"; ?>
 	<header>
-		<h1>Elise Frelinger '21</h1>
+		<h1>Elise Frelinger</h1>
 		<div>Major in Film & Media Studies</div>
 		<div>Minor in BCS, History, and CS</div>
 	</header>
@@ -22,7 +22,7 @@ include "inc/html-top.php";
 					<p>
 						I knew only a little bit of Java coming out of high school and decided to to improve the situation with an intro programming class. Especially interesting to me was the way complex programs have an exact way of fitting together, piece by piece- After another year, I decided to persue a minor and gained experience with versatile programs I may not have ever used otherwise.
 					</p>
-			<h2>Classes in Computer Science:</h2>
+			<h3>Classes in Computer Science:</h3>
 				<ul>
 					<li>CSC 161: Intro to Programming</li>
 					<li>CSC 131: Recreational Graphics</li>
@@ -30,7 +30,7 @@ include "inc/html-top.php";
 					<li>CSC 299W: Social Implications of Computing</li>
 				</ul>
 
-			<h2>Experience in:</h2>
+			<h3>Experience in:</h3>
 				<ul>
 					<li>Java</li>
 					<li>Python</li>
@@ -42,7 +42,7 @@ include "inc/html-top.php";
 					<p>
 						I decided to take a film class when I went to the UofR and quickly signed up for several the following year. After two years, I realized that constructing and deconstructing video was something I loved to do. I decided to major in the production track.
 					</p>
-			<h2>Classes in Film and Digital Media:</h2>
+			<h3>Classes in Film and Digital Media:</h3>
 				<ul>
 					<li>FMS 132: Intro to the Art of Film</li>
 					<li>FMS 210: Animation and the Arts</li>
@@ -57,7 +57,7 @@ include "inc/html-top.php";
 					<li>FMS 270: On Repeat</li>
 				</ul>
 
-			<h2>Experience in:</h2>
+			<h3>Experience in:</h3>
 				<ul>
 					<li>Adobe Illustrator</li>
 					<li>Adobe Premier Pro</li>
