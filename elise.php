@@ -67,6 +67,9 @@ include "inc/html-top.php";
 					<li>producing still and multi-media presentations, as well as short animations</li>
 				</ul>
 
+			<h2>Clubs and Organization</h2>
+				<p>I was a member of the Equestrian Club for two years. Riding horses was something I had wanted to do since I was young, and with fundraisers and weekly group lessons, we were able to take lessons, compete, and help care for horses at a fraction of the regular cost.</p>
+
 		</article>
 
 		<aside>
