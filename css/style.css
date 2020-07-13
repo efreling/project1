@@ -1,3 +1,59 @@
+
+/* SMACSS layout - https://smacss.com/book */
+/*******************************************************
+Base
+*******************************************************/ 
+header {
+    /* background-color: #4A87A1; */
+    /* background from wallpapercave.com */
+    background-image: url(../images/bubbles.jpg); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    text-align: center;
+    color: #D9CFC0;
+
+    padding-bottom: 20%;
+    padding-top: 10%;
+
+    position: fixed;
+    width: 100%;
+
+    z-index: 2;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 27px;
+}
+
+h3 {
+    font-size: 25px;
+    font-style: italic;
+
+}
+h4 {
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 30px;
+
+    grid-column: 1 / 4;
+    text-align: center;
+
+    font-style: italic;
+    color: silver;
+    font-size: 15px;
+}
+
+body {
+    margin: 0;
+}
+
+/*******************************************************
+Layout
+*******************************************************/ 
 .background {
     /* grid specifications */
     width: 100%;
@@ -27,10 +83,8 @@
     .background{
         position: initial;
         margin-top: 0;
-
     }
 }
-
 
 .container{
     display: grid;
@@ -47,12 +101,13 @@
     }
 }
 
-
+/* article */
 .background article {
     grid-column: 1/3;
 
 }
 
+/* aside */
 .background aside {
     grid-column: 3/4;
     color: silver;
@@ -66,24 +121,7 @@
     }
 }
 
-header {
-    /* background-color: #4A87A1; */
-    /* background from wallpapercave.com */
-    background-image: url(../images/bubbles.jpg); 
-    background-repeat: no-repeat;
-    background-size: 100%;
-    
-    text-align: center;
-    color: #D9CFC0;
 
-    padding-bottom: 20%;
-    padding-top: 10%;
-
-    position: fixed;
-    width: 100%;
-
-    z-index: 2;
-}
 @media (max-width: 600px){
     header {
         position: initial;
@@ -96,42 +134,10 @@ header {
         margin-top: 0;
     }
 }
- 
-h2 {
-    font-style: italic;
-    font-size: 27px;
-}
 
-h3 {
-    font-size: 25px;
-    font-style: italic;
-
-}
-h4 {
-    font-size: 20px;
-
-}
-
-footer {
-    margin-top: 30px;
-
-    grid-column: 1 / 4;
-    text-align: center;
-
-    font-style: italic;
-    color: silver;
-    font-size: 15px;
-}
-
-body {
-    margin: 0;
-}
-
-.is-current{
-    background-color: indigo;
-    border: 0px;
-}
-
+/*******************************************************
+Modules
+*******************************************************/ 
 .external_link {
     font-size: 19px;
     font-weight: bold;
@@ -151,3 +157,4 @@ aside a {
 aside a:hover {
     background-color: indigo;
 }
+

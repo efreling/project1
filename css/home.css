@@ -1,5 +1,8 @@
 /* home page */
-
+/* SMACSS layout - https://smacss.com/book */
+/*******************************************************
+Base
+*******************************************************/ 
 header {
 	padding-top: 8%;
 }
@@ -9,7 +12,31 @@ header {
     }
 }
 
+footer {
+	grid-column: 1/4;
+	text-align: center;
 
+	font-style: italic;
+	color: silver;
+    font-size: 15px;
+
+}
+
+img {
+	height: 300px;
+	border: 7px solid #214B71;
+	box-shadow: 3px 3px #1a3e5f;
+}
+
+h2 {
+	font-size: 20px;
+	text-align: center;
+}
+
+/*******************************************************
+Layout
+*******************************************************/ 
+/* article */
 .background article {
     /* grid specifications w/in article */
     grid-column: 1/4;
@@ -25,7 +52,9 @@ header {
     }
 }
 
-
+/*******************************************************
+Modules
+*******************************************************/ 
 .column_1 {
 	text-align: center;
 
@@ -57,16 +86,6 @@ header {
     background-image: url(../images/jean.jpg);
 }
 
-footer {
-	grid-column: 1/4;
-	text-align: center;
-
-	font-style: italic;
-	color: silver;
-    font-size: 15px;
-
-}
-
 .background a {
 	text-decoration: none;
 	color: silver;
@@ -80,16 +99,6 @@ footer {
     background-color: indigo;
 }
 
-img {
-	height: 300px;
-	border: 7px solid #214B71;
-	box-shadow: 3px 3px #1a3e5f;
-}
-
-h2 {
-	font-size: 20px;
-	text-align: center;
-}
 
 .major {
 	list-style-type: square;
