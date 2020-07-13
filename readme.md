@@ -5,6 +5,7 @@ Created by: Joshua Choi, Elise Frelinger, and Desmond Lai
 
 ## *Classes and Relationships*
 
+We organized our information based on categories we all had in common and arranged them in the same way on each webpage to create a uniform look. Each of the students had a major, which we displayed at the top of the page under our names. We grouped the information of each webpage into two main categories: pre-college interests and college education. We put the college education in the article because it is the central section of the webpage while the pre-college interests were placed in the aside. The group had projects related to our interests, which were linked in the aside as well. One thing all of us had in common was an interest or education in both computer science and digital media studies. All of the students took classes related to computer science and digital media and had experience in different coding languages and software. The group also realized that everyone was involved in a club or organization on campus and included a description of the organization under the Computer Science and Digital Media Studies subheadings. 
 
 ## *Choreography*
 
