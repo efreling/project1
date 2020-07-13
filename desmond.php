@@ -18,10 +18,11 @@ include "inc/html-top.php";
 	<div class="background">
 		<div class="container">
 		<article>
-			<h2>Computer Science</h2>
+			<h2>At the University of Rochester</h2>
+			<h3>Computer Science</h3>
             <p>Before coming to the University of Rochester, I have taught myself programming languages using online resources. Eventually, during my senior year, I decided to take a formal course in Computer Science by taking AP Computer Science A where I learned to use Java, and competed in several hackathons. Through my participation in these hackathons, I realized that I can use my computer science abilities to create a better future, and I ended up majoring Computer Science to improve my knowledge in this field.</p>
 
-            <h3>Classes in Computer Science:</h3>
+            <h4>Classes in Computer Science:</h4>
             <ul>
                 <li>CSC 170: Intro to Web Development</li>
                 <li>CSC 172: Data Structures & Algorithms</li>
@@ -32,7 +33,7 @@ include "inc/html-top.php";
                 <li>CSC 273W: Writing For Computer Science</li>
             </ul>
 
-            <h3>Programming Languages:</h3>
+            <h4>Programming Languages:</h4>
             <ul>
                 <li>C#</li>
                 <li>Python</li>
@@ -42,17 +43,17 @@ include "inc/html-top.php";
                 <li>Javascript</li>
             </ul>
 
-			<h2>Digital Media Studies</h2>
+			<h3>Digital Media Studies</h3>
 			<p>As I knew how to use certain tools such as Adobe Photoshop and Premiere before taking any Digital Media courses, I decided to improve upon these abilities when I came to college. After taking several courses in Digital Media improve my abilities with these tools, and I found that these skills apply towards many other fields. </p>
 
-            <h3>Classes in Digital Media:</h3>
+            <h4>Classes in Digital Media:</h4>
             <ul>
                 <li>DMS 103: Essential Digital Media Toolkit</li>
                 <li>DMS 111 / FMS 205 / SA 151: New Media & Emerging Practices</li>
                 <li>DMS 112 / SA 141: Introduction to Photography</li>
             </ul>
 
-            <h3>Experience in:</h3>
+            <h4>Experience in:</h4>
             <ul>
                 <li>Adobe Photoshop</li>
                 <li>Adobe Premiere</li>
@@ -62,7 +63,7 @@ include "inc/html-top.php";
                 <li>Reality Capture</li>
             </ul>
 
-            <h2>Clubs and Organizations</h2>
+            <h3>Clubs and Organizations</h3>
             <p>Currently, I am the Fundraising Chair of the University of Rochester Society of Asian Scientists and Engineers. As the Fundraising Chair, I am responsible for organizing fundraisers through communicating with various offices and businesses to create a successful fundraiser. My role as the Fundraising Chair is important to the club because it is the primary means of funding the club's events.</p>
 		</article>
 

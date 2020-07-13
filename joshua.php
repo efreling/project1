@@ -18,7 +18,8 @@ include "inc/html-top.php";
 	<div class="background">
 		<div class="container">
 		<article>
-			<h2>Computer Science</h2>
+			<h2>At the University of Rochester</h2>
+			<h3>Computer Science</h3>
 			<p>
                 I didn't have any experience with computer science going into college, and decided to major in it
                 only because I thought it might be interesting. I now have experience coding with languages such as
@@ -29,7 +30,7 @@ include "inc/html-top.php";
 
             </p>
 
-            <h3>Classes in Computer Science:</h3>
+            <h4>Classes in Computer Science:</h4>
             <ul>
                 <li>CSC 170: Intro to Web Development</li>
                 <li>CSC 171: Intro to Computer Science</li>
@@ -41,7 +42,7 @@ include "inc/html-top.php";
                 <li>CSC 273W: Writing For Computer Science</li>
             </ul>
 
-            <h3>Programming Languages:</h3>
+            <h4>Programming Languages:</h4>
             <ul>
                 <li>Python</li>
                 <li>Java</li>
@@ -51,7 +52,7 @@ include "inc/html-top.php";
                 <li>Arduino IDE</li>
             </ul>
 
-			<h2>Digital Media Studies</h2>
+			<h3>Digital Media Studies</h3>
 			<p>
                 I decided I wanted to major in digital media studies because I've always been interested in digital art
                 and loved things that were aesthetically pleasing. Digital media studies is also a very flexible major
@@ -59,7 +60,7 @@ include "inc/html-top.php";
                 useful skill for me while working on designing and creating websites.
             </p>
 
-            <h3>Classes in Digital Media:</h3>
+            <h4>Classes in Digital Media:</h4>
             <ul>
                 <li>DMS 101: Intro to Digital Media Studies</li>
                 <li>DMS 103: Essential Digital Media Toolkit</li>
@@ -68,7 +69,7 @@ include "inc/html-top.php";
                 <li>DMS 112 / SA 141: Introduction to Photography</li>
             </ul>
 
-            <h3>Experience in:</h3>
+            <h4>Experience in:</h4>
             <ul>
                 <li>Adobe Illustrator</li>
                 <li>Adobe Photoshop</li>
@@ -79,7 +80,7 @@ include "inc/html-top.php";
                 <li>Photography</li>
             </ul>
 
-			<h2>Clubs and Organizations</h2>
+			<h3>Clubs and Organizations</h3>
 			<p>
                 I am the Publicity Chair of the University of Rochester Society of Asian Scientists and Engineers.
                 As the Publicity Chair, I am responsible for all of UR SASE’s advertisements, promotions, etc.,
