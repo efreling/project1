@@ -4,9 +4,11 @@
 Base
 *******************************************************/ 
 header {
-    /* background-color: #4A87A1; */
-    /* background from wallpapercave.com */
-    background-image: url(../images/bubbles.jpg); 
+    /* background from wallpapercave.com- v. 1 background */
+    /*background-image: url(../images/bubbles.jpg); */
+
+    /* background from pixelstalk.net */
+    background-image: url(../images/bubble_wallpaper2.png);
     background-repeat: no-repeat;
     background-size: 100%;
     
@@ -65,7 +67,6 @@ Layout
     /* instruction of z-index from 
     freecodecamp.org */
     z-index: 3;
-    /* background-color: indigo; */ 
     background-image: url(../images/jean.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -113,7 +114,6 @@ Layout
     color: silver;
     font-family: 'Montserrat', sans-serif;
     /* instructions from css-tricks.com */
-   /* transform: rotate(-3deg); */
 }
 @media (max-width: 600px){
     .background aside{

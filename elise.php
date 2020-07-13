@@ -11,7 +11,7 @@ include "inc/html-top.php";
 	<header>
 		<h1>Elise Frelinger</h1>
 		<div>Major in Film & Media Studies</div>
-		<div>Minor in BCS, History, and CS</div>
+		<div>Minor in Brain & Cognitive Science, History, and Computer Science</div>
 	</header>
 
 	
