@@ -73,7 +73,7 @@ include "inc/html-top.php";
             </p>
 
             <p class="external_link">Check out some of my work here: </p>
-            <div><a href="https://github.com/KarmaPanda">GitHub</a></p></div>
+            <div><a href="https://github.com/KarmaPanda">GitHub</a></div>
 		</aside>
 
 		<footer>

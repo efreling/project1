@@ -11,8 +11,8 @@ include "inc/html-top.php";
 <body>
 	<?php include "inc/nav.php"; ?>
 	<header>
-		<h1>City-team: Osaka</h1>
 		<section>
+		<h1>City-team: Osaka</h1>
 			<p>Roles: 3X Information Architects</p>
 			<p>Main Focus on Computer Science</p>
 			<p>Digital Media Studies</p>
