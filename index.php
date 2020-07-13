@@ -13,9 +13,10 @@ include "inc/html-top.php";
 	<header>
 		<h1>City-team: Osaka</h1>
 		<section>
-			<p>Roles: Information Architects</p>
-			<p>Computer Science</p>
-			<p>Digital Media</p>
+			<p>Roles: 3X Information Architects</p>
+			<p>Main Focus on Computer Science</p>
+			<p>Digital Media Studies</p>
+			<p>Clubs & Organizations</p>
 		</section>
 	</header>
 
