@@ -69,7 +69,7 @@ include "inc/html-top.php";
 				</ul>
 
 			<h3>Clubs and Organization</h3>
-				<p>I was a member of the Equestrian Club for two years. Riding horses was something I had wanted to do since I was young, and with fundraisers and weekly group lessons, we were able to take lessons, compete, and help care for horses at a fraction of the regular cost. I learned a great deal about how to care for farm animals and how to coordinate (often nonverbally) with other riders, the instructor, and the horses themselves.</p>
+				<p>I was a member of the Equestrian Club for two years. Riding horses was something I had wanted to do since I was young, and with fundraisers and weekly group lessons, we were able to take lessons, compete, and help care for horses at a fraction of the regular cost. I learned a great deal about how to care for farm animals and how to coordinate (often nonverbally) with other riders, the instructor, and the horses.</p>
 
 		</article>
 
