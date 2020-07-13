@@ -21,7 +21,7 @@ include "inc/html-top.php";
 			<h2>At the University of Rochester</h2>
 			<h3>Computer Science</h3>
 					<p>
-						I knew only a little bit of Java coming out of high school and decided to to improve the situation with an intro programming class. Especially interesting to me was the way complex programs have an exact way of fitting together, piece by piece- After another year, I decided to persue a minor and gained experience with versatile programs I may not have ever used otherwise.
+						I knew only a little bit of Java coming out of high school and decided to to improve the situation with an intro programming class. Especially interesting to me was the way complex programs have an exact way of fitting together, piece by piece. After another year, I decided to persue a minor and gained experience with versatile programs I may not have ever used otherwise.
 					</p>
 			<h4>Classes in Computer Science:</h4>
 				<ul>
@@ -69,7 +69,7 @@ include "inc/html-top.php";
 				</ul>
 
 			<h3>Clubs and Organization</h3>
-				<p>I was a member of the Equestrian Club for two years. Riding horses was something I had wanted to do since I was young, and with fundraisers and weekly group lessons, we were able to take lessons, compete, and help care for horses at a fraction of the regular cost.</p>
+				<p>I was a member of the Equestrian Club for two years. Riding horses was something I had wanted to do since I was young, and with fundraisers and weekly group lessons, we were able to take lessons, compete, and help care for horses at a fraction of the regular cost. I learned a great deal about how to care for farm animals and how to coordinate (often nonverbally) with other riders, the instructor, and the horses themselves.</p>
 
 		</article>
 
