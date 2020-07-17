@@ -34,10 +34,10 @@ include "inc/html-top.php";
 
 				<div class="column_2">
 					<h2>Eunlim Kim</h2>
-					<img src="images/#.jpg" alt="Eunlim's photo">
-					<div class="major">Major in #</div>
-					<div class="major">Major in #</div>
-					<a href = "http://csc174.org/lab01/#/">View Personal Website</a>
+					<img src="images/eunlimkim.jpg" alt="Eunlim's photo">
+					<div class="major">Major in Computer Science</div>
+					<div class="major">Minor in Japanese</div>
+					<a href = "http://csc174.org/lab01/ekim69/index.php">View Personal Website</a>
 				</div>
 
 				<div class="column_3">
