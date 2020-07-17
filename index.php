@@ -13,7 +13,7 @@ include "inc/html-top.php";
 	<header>
 		<section>
 		<h1>City-team: Osaka</h1>
-			<p>Roles: 3X Information Architects</p>
+			<p>Roles: 3X Visual Designers</p>
 			<p>Main Focus on Computer Science</p>
 			<p>Digital Media Studies</p>
 			<p>Clubs & Organizations</p>
@@ -25,14 +25,6 @@ include "inc/html-top.php";
 		<div class="container">
 			<article>
 				<div class="column_1">
-					<h2>Joshua Choi</h2>
-					<img src="images/josh.jpg" alt="Joshua's photo">
-					<div class="major">Major in Computer Science</div>
-					<div class="major">Major in Digital Media Studies</div>
-					<a href = "http://csc174.org/lab01/jchoi84/">View Personal Website</a>
-				</div>
-
-				<div class="column_2">
 					<h2>Elise Frelinger</h2>
 		            <img src="images/elise_picture.jpg" alt="Elise's photo">
 					<div class="major">Major in Film & Media Studies</div>
@@ -40,17 +32,25 @@ include "inc/html-top.php";
 					<a href = "http://csc174.org/lab01/efreling/lab01/index.php">View Personal Website</a>
 				</div>
 
+				<div class="column_2">
+					<h2>Eunlim Kim</h2>
+					<img src="images/#.jpg" alt="Eunlim's photo">
+					<div class="major">Major in #</div>
+					<div class="major">Major in #</div>
+					<a href = "http://csc174.org/lab01/#/">View Personal Website</a>
+				</div>
+
 				<div class="column_3">
-					<h2>Desmond Lai</h2>
-					<img src="images/desmond.jpeg" alt="Desmond's photo">
+					<h2>Joo Eon Park</h2>
+					<img src="images/jooeon.jpg" alt="Joo Eon's photo">
 					<div class="major">Major in Computer Science</div>
-					<div class="major">Cluster in Production and Economics</div>
-					<a href = "http://csc174.org/lab01/dlai2">View Personal Website</a>
+					<div class="major">Minor in Digital Media Studies</div>
+					<a href = "http://csc174.org/lab01/jpark174">View Personal Website</a>
 				</div>
 			</article>
 
 			<footer>
-				<p>CSC 174:Advanced Front-end Web - Project 2</p>
+				<p>CSC 174:Advanced Front-end Web - Project 3</p>
 			</footer>
 		
 		</div><!-- used for center container -->
