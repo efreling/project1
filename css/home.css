@@ -5,7 +5,17 @@ Base
 *******************************************************/ 
 header {
 	padding-top: 8%;
+    /* background from wallpapercave.com- v. 1 background */
+    /*background-image: url(../images/bubbles.jpg); */
+
+    /* background from pixelstalk.net */
+    /* background-image: url(../images/bubble_wallpaper2.png); */
+    background-image: url(../images/placeholder_hero.png);
+
 }
+
+
+
 @media (max-width: 600px){
     header {
         padding-top: 30px;
@@ -40,6 +50,11 @@ h2 {
 /*******************************************************
 Layout
 *******************************************************/ 
+.background {
+	margin-top: 44%;
+}
+
+
 /* article */
 .background article {
     /* grid specifications w/in article */
