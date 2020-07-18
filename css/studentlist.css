@@ -1,0 +1,20 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  header{
+    background-image: url(../images/bubble_wallpaper2.png);
+  }
+
+
+  .background{
+  background-image: url(../images/jean.jpg);
+  }
