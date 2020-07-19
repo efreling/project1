@@ -126,7 +126,7 @@ label {
     }
 }
 
-.container {
+.container article {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 40px;
@@ -143,8 +143,8 @@ label {
 }
 
 /* article */
-.background article {
-    grid-column: 1 / 3;
+.column_1 {
+    grid-column: 1 / 2;
 
 }
 
