@@ -67,6 +67,9 @@ Layout
     /* instruction of z-index from 
     freecodecamp.org */
     z-index: 3;
+
+    /*background from istockphoto.com */
+
     background-image: url(../images/jean.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -76,7 +79,6 @@ Layout
     margin-top: 33%;
     
     margin-right: -8px;
-    /*margin-left: -8px;*/
     border-top: 1px solid gray;
     line-height: 1.5;
 }
@@ -121,11 +123,25 @@ Layout
     }
 }
 
-
 @media (max-width: 600px){
     header {
         position: initial;
         padding-top: 30px;
+}
+
+header {
+    /* background from wallpapercave.com */
+    background-image: url(../images/bubbles.png); 
+
+    text-align: center;
+    color: #D9CFC0;
+
+    padding-bottom: 20%;
+    padding-top: 10%;
+
+    position: fixed;
+    width: 100%;
+
 
         padding-bottom : 30px;
 
