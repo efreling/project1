@@ -26,7 +26,7 @@
 
 			<section>
 				
-				<h2>CSC174 Students</h2>
+				<h2>CSC 174 Students</h2>
 				<h2 class="h2-large">In Digital Media</h2>
 
 			</section>
@@ -38,7 +38,8 @@
 
 			<article>
 				<div class="column_1">
-                    <iframe width="280" height="157.5" src="https://www.youtube.com/embed/CY7zJbmlI0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<h3>An Introduction to Ronald Rettner Hall for Media Arts and Innovation</h3>
+                    <iframe width="280" height="157.5" src="https://www.youtube.com/embed/CY7zJbmlI0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="youtube"></iframe>
                 </div>
 
                 <div class="column_2">
