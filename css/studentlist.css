@@ -1,20 +1,49 @@
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
   }
 
   .grid-item {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-image: url(../images/jean.png);
     padding: 20px;
-    font-size: 30px;
     text-align: center;
+    color: white;
   }
 
-  header{
-    background-image: url(../images/bubble_wallpaper2.png);
+  img{
+    width: 300px;
+    height: 400px;
+  }
+
+  li{
+    list-style-type: none;
+  }
+
+  .button {
+    border: 2px dotted #ffffff;
+    border-radius: 30px;
+    font-family: Futura, Arial, sans-serif;
+      color: white;
+      background-color: #001b3d;
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #009eed;
   }
 
 
-  .background{
-  background-image: url(../images/jean.jpg);
-  }
+
+
+
+  
