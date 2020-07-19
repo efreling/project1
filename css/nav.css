@@ -1,14 +1,12 @@
 /* SMACSS layout - https://smacss.com/book */
+/* scrap all of this */
 /*******************************************************
 Layout
 *******************************************************/ 
 .menu {
-    width: 100%;
-    height: 80px;
-    background-color: black;
-
     position: fixed;
     z-index: 5;
+    /* display: inline;*/
 }    
 @media (max-width: 600px){
     .menu {

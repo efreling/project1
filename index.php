@@ -1,64 +1,64 @@
-<?php 
-$customCSS = "<link rel='stylesheet' href='css/home.css'> ";
+<!doctype html>
+<html lang="en">
 
-include "inc/html-top.php";
-
-?>
-
+<head>
+	<meta charset="utf-8">
+	<title>Osaka | Project 3</title>
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 </head>
 
 
 <body>
-	<?php include "inc/nav.php"; ?>
+
+	<div class="banner">
+		<a href="index.php"><h1 class="logo">OSAKA</h1></a>
+
+		<form>
+			<label for="username">Login:</label><br>
+			<input type="text" id="username" name="username" placeholder="Username..."><br>
+			<input type="text" id="password" name="password" placeholder="Password...">
+		</form>
+
+	</div>
+
 	<header>
-		<section>
-		<h1>City-team: Osaka</h1>
-			<p>Roles: 3X Information Architects</p>
-			<p>Main Focus on Computer Science</p>
-			<p>Digital Media Studies</p>
-			<p>Clubs & Organizations</p>
-		</section>
+
+			<section>
+				
+				<h2>CSC174 Students</h2>
+				<h2 class="h2-large">In Digital Media</h2>
+
+			</section>
+
 	</header>
 
-
-	<div class="background">	
+	<div class="background">
 		<div class="container">
+
 			<article>
-				<div class="column_1">
-					<h2>Joshua Choi</h2>
-					<img src="images/josh.jpg" alt="Joshua's photo">
-					<div class="major">Major in Computer Science</div>
-					<div class="major">Major in Digital Media Studies</div>
-					<a href = "http://csc174.org/lab01/jchoi84/">View Personal Website</a>
-				</div>
+				
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
 
-				<div class="column_2">
-					<h2>Elise Frelinger</h2>
-		            <img src="images/elise_picture.jpg" alt="Elise's photo">
-					<div class="major">Major in Film & Media Studies</div>
-					<div class="major">Minor in Brain & Cognitive Science, History, and Computer Science</div>
-					<a href = "http://csc174.org/lab01/efreling/lab01/index.php">View Personal Website</a>
-				</div>
+				<button class="button" onclick="document.location='studentlist.php'">Meet the students</button>
 
-				<div class="column_3">
-					<h2>Desmond Lai</h2>
-					<img src="images/desmond.jpeg" alt="Desmond's photo">
-					<div class="major">Major in Computer Science</div>
-					<div class="major">Cluster in Production and Economics</div>
-					<a href = "http://csc174.org/lab01/dlai2">View Personal Website</a>
-				</div>
 			</article>
 
 			<footer>
-				<p>CSC 174:Advanced Front-end Web - Project 2</p>
-			</footer>
-		
-		</div><!-- used for center container -->
-	</div>
+				
+				<p>CSC 174:Advanced Front-end Web - Project 3</p>
 
+			</footer>
+
+		</div> <!-- container -->
+	</div> <!-- background -->
 
 <?php include "inc/scripts.php" ?>
 </body>
-
 
 </html>
