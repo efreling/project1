@@ -1,55 +1,64 @@
-<?php 
-$customCSS = "<link rel='stylesheet' href='css/home.css'> ";
+<!doctype html>
+<html lang="en">
 
-include "inc/html-top.php";
-
-?>
-
+<head>
+	<meta charset="utf-8">
+	<title>Osaka | Project 3</title>
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 </head>
 
 
 <body>
-	<header>
-		<div class="flex">
-			<h1>CSC 174</h1>
-			<ul>
-				<li><a href="index.php">Home</a></li>
-				<li><a href="studentlist.php">Student List</a></li>
-				<li class="login"><a href="#">Login</a></li>
-			</ul>
-		</div>
 
-			<p>City-Team: Osaka</p>
+	<div class="banner">
+		<a href="index.php"><h1 class="logo">OSAKA</h1></a>
+
+		<form>
+			<label for="username">Login:</label><br>
+			<input type="text" id="username" name="username" placeholder="Username..."><br>
+			<input type="text" id="password" name="password" placeholder="Password...">
+		</form>
+
+	</div>
+
+	<header>
+
+			<section>
+				
+				<h2>CSC174 Students</h2>
+				<h2 class="h2-large">In Digital Media</h2>
+
+			</section>
+
 	</header>
 
-	<div class="background">	
+	<div class="background">
 		<div class="container">
+
 			<article>
-				<div class="column_1">
-					<iframe width="280" height="157.5" src="https://www.youtube.com/embed/CY7zJbmlI0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
+				
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper sus-cipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
 
-				<div class="column_2">
-					<h3>What is Digital Media Studies?</h3>
-					<p>Lorem Ipsum</p>
-					
-				</div>
+				<button class="button" onclick="document.location='studentlist.php'">Meet the students</button>
 
-				<div class="column_3">
-					
-				</div>
 			</article>
 
 			<footer>
+				
 				<p>CSC 174:Advanced Front-end Web - Project 3</p>
-			</footer>
-		
-		</div><!-- used for center container -->
-	</div>
 
+			</footer>
+
+		</div> <!-- container -->
+	</div> <!-- background -->
 
 <?php include "inc/scripts.php" ?>
 </body>
-
 
 </html>
