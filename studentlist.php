@@ -15,8 +15,8 @@ include "inc/html-top.php";
 <div class="background">
 	<div class="grid-container">
 		<div class="grid-item student">
-		<h2>Eunlim Kim</h2>
-		<h3>Major in Computer Science</h3>
+		<h1>Eunlim Kim</h1>
+		<div>Major in Computer Science</div>
 		</div>
 		<div class="grid-item photo">
 		<img src="images/eunlimkim.jpg" alt="Eunlim's photo">
@@ -27,12 +27,12 @@ include "inc/html-top.php";
             interest.</p>
 		</div>  
 		<div class="grid-item link">
-		<button class="button" onclick="document.location='eunlim.php'">Eunlim's website</button>
+		<li><a href="eunlim.php">Eunlim Kim</a></li>
 		</div>
 		<div class="grid-item student">
-		<h2>Elise Frelinger</h2>
-		<h3>Major in Film & Media Studies</h3>
-		<h3>Minor in Brain & Cognitive Science, History, and Computer Science</h3>
+		<h1>Elise Frelinger</h1>
+		<div>Major in Film & Media Studies</div>
+		<div>Minor in Brain & Cognitive Science, History, and Computer Science</div>
 		</div>
 		<div class="grid-item photo">
 		<img src="images/elise_picture.jpg" alt="Elise's photo">
@@ -43,7 +43,7 @@ include "inc/html-top.php";
 		</p>
 		</div>  
 		<div class="grid-item link">
-		<button class="button" onclick="document.location='elise.php'">Elise's website</button>
+		<li><a href="elise.php">Elise Frelinger</a></li>
 		</div>
 		<div class="grid-item student">
 		<h1>Joo Eon Park</h1>
@@ -59,7 +59,7 @@ include "inc/html-top.php";
 		</p>
 		</div>  
 		<div class="grid-item link">
-		<button class="button" onclick="document.location='jooeon.php'">Jooeon's website</button>
+		<li><a href="jooeon.php">Joo Eon Park</a></li>
 		</div>
 </div>
 </div>
