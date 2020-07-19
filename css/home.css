@@ -4,13 +4,16 @@
 Base
 *******************************************************/ 
 header {
-	padding-top: 8%;
     /* background from wallpapercave.com- v. 1 background */
     /*background-image: url(../images/bubbles.jpg); */
 
     /* background from pixelstalk.net */
     /* background-image: url(../images/bubble_wallpaper2.png); */
     background-image: url(../images/placeholder_hero.png);
+
+    /* 32% to include full header area */
+    padding-top: 0%;
+    padding-bottom: 32%;
 
 }
 
@@ -39,7 +42,13 @@ img {
 }
 
 h1 {
-	font-size: 33px;
+	font-size: 30px;
+	text-align: left;
+    padding-top: 0%;
+    padding-left: 2%;
+    display: inline;
+    width: 55%;
+    color: white;
 }
 
 h2 {
@@ -125,4 +134,53 @@ Modules
 	padding-bottom: 8px;
 
 }
+
+/* sort these things */
+/* flex */
+.flex {
+	display: flex;
+	width: 100%;
+	border: 1px solid black;
+	/* htmlcsscolor.com */
+	background-color: #43464B;
+}
+
+.flex ul {
+    z-index: 5;
+    display: flex;
+    list-style-type: none;
+
+}
+
+.flex li {
+	margin-left: 40px;
+	
+}
+
+
+.flex a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.flex a:hover {
+	color: pink;
+}
+
+.login {
+	border: .05px solid black;
+	padding: 10px;
+	background-color: #32CD32;
+	border-radius: 10px;
+	color: black;
+}
+/*******************************************************
+States
+*******************************************************/ 
+.flex li a.is-current {
+    color: #214B71;
+    background-color: #D9CFC0;
+}
+
 

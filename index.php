@@ -9,43 +9,34 @@ include "inc/html-top.php";
 
 
 <body>
-	<?php include "inc/nav.php"; ?>
 	<header>
-		<section>
-		<h1>City-team: Osaka</h1>
-			<p>Roles: 3X Visual Designers</p>
-			<p>Main Focus on Computer Science</p>
-			<p>Digital Media Studies</p>
-			<p>Clubs & Organizations</p>
-		</section>
-	</header>
+		<div class="flex">
+			<h1>CSC 174</h1>
+			<ul>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="studentlist.php">Student List</a></li>
+				<li class="login"><a href="#">Login</a></li>
+			</ul>
+		</div>
 
+			<p>City-Team: Osaka</p>
+	</header>
 
 	<div class="background">	
 		<div class="container">
 			<article>
 				<div class="column_1">
-					<h2>Elise Frelinger</h2>
-		            <img src="images/elise_picture.jpg" alt="Elise's photo">
-					<div class="major">Major in Film & Media Studies</div>
-					<div class="major">Minor in Brain & Cognitive Science, History, and Computer Science</div>
-					<a href = "http://csc174.org/lab01/efreling/lab01/index.php">View Personal Website</a>
+					<iframe width="280" height="157.5" src="https://www.youtube.com/embed/CY7zJbmlI0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 
 				<div class="column_2">
-					<h2>Eunlim Kim</h2>
-					<img src="images/eunlimkim.jpg" alt="Eunlim's photo">
-					<div class="major">Major in Computer Science</div>
-					<div class="major">Minor in Japanese</div>
-					<a href = "http://csc174.org/lab01/ekim69/index.php">View Personal Website</a>
+					<h3>What is Digital Media Studies?</h3>
+					<p>Lorem Ipsum</p>
+					
 				</div>
 
 				<div class="column_3">
-					<h2>Joo Eon Park</h2>
-					<img src="images/jooeon.jpg" alt="Joo Eon's photo">
-					<div class="major">Major in Computer Science</div>
-					<div class="major">Minor in Digital Media Studies</div>
-					<a href = "http://csc174.org/lab01/jpark174">View Personal Website</a>
+					
 				</div>
 			</article>
 
